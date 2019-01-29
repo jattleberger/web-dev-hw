@@ -1,2 +1,2 @@
-# web-dev-hw
+# Jami Attleberger' web-dev-hw
 Intro to Web Design Repository for homework 

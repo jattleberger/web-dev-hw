@@ -1,0 +1,4 @@
+The internet ships binary information, or 1 and 0s which are bits. There are 8 bits in a byte, 1024 bytes in a kilobyte, and 1024 kilobytes in a megabyte. This information is transmitted through electricity, light, wires, and radio waves.
+An IP address or Internet Protocol address is specific to each individual device. DNS or Domain Name System are in a way like a phone book for all the IP addresses.
+A cookie is a small file that downloads onto someone device and stores information about a particular client or website. This is how a webpage can be tailored for a specific user.
+The three basic parts of a URL are the http/protocol, the domain and subdomain (ie. .com. .org, .gov), and the /directory/ "path" to the page or information you're looking for.

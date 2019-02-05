@@ -7,7 +7,7 @@ I decided to take this class for multiple reasons.  The first reason I chose thi
 2. I hope to learn how to build a website that is user friendly but also aesthetically appealing.
 3. I hope to have fun in this course!
 
-[Course Website](https://www.roomtoread.org/)
+[Room to Read](https://www.roomtoread.org/)
 
 [My Responses](./responses.txt)
 

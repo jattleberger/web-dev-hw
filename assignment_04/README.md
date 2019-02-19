@@ -5,4 +5,4 @@
 
 14. The GIT Module was a little frustrating at first, but with some persistence and practice it all started to make sense.
 
-15. ![Assignment 4 Screenshot](./images/Screenshot_A4.png)
+15. ![Assignment 4 Screenshot](./images/GitHub_Screenshot_A4.png)

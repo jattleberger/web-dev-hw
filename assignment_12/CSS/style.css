@@ -1,0 +1,166 @@
+body{
+  background-color: #516e27;
+}
+
+.Main_Container {
+  background-color: rgb(255, 255, 255);
+  padding: 3em;
+  margin: 2em;
+  display:
+}
+
+.Placeholder_Info {
+    background-color: #edefea;
+    color: rgb(0,0,0);
+    padding: 5em;
+    text-align: justify;
+    display:  flow-root;
+}
+
+
+.image {
+  width: 400px;
+  height: 266px;
+  border-color: #253159;
+  position: relative;
+  margin: auto;
+  border-width: thick;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  border-style: double;
+  align-items: center;
+  border-color: #253159;
+  text-align: center;
+}
+
+.image-1 {
+  width: 400px;
+  height: 300px;
+  border-color: #253159;
+  position: relative;
+  margin: auto;
+  border-width: thick;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  border-style: double;
+  align-items: center;
+  border-color: #253159;
+  text-align: center;
+}
+
+.image-2 {
+  width: 400px;
+  height: 250px;
+  border-color: #253159;
+  position: relative;
+  margin: auto;
+  border-width: thick;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  border-style: double;
+  align-items: center;
+  border-color: #253159;
+  text-align: center;
+}
+
+.heading{
+  text-align: center;
+}
+
+.footer{
+  padding-top: 3em;
+  text-align: center;
+  margin: auto;
+}
+
+/* Navigation Bar Heading */
+
+.nav-bar{
+  display:inline;
+  font-family: 'Damion', cursive;
+}
+
+.nav-bar:hover{
+  color: rgb(0, 156, 255)
+}
+
+header{
+  background-color: #edefea;
+  min-width: 100px;
+  max-width: 300;
+  font-family: 'Damion', cursive;
+  text-align: center;
+  position: relative;
+  font-size: 18pt;
+}
+
+.menu{
+  margin: auto;
+  padding: 1em;
+  min-width: 70px;
+  line-height: 3em;
+  font-size: 18pt;
+}
+
+.link-style a{
+  color: rgb(37, 49, 89)
+}
+
+a:hover {
+  color: rgb(72, 181, 39)
+}
+
+.link-style:hover{
+  color: rgb(72, 181, 39)
+}
+
+/* Other Ranches*/
+
+.dropdown-piece{
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 0.6em;
+  min-width: 6em;
+}
+
+.dropdown-piece:hover, .dropdown-piece:hover a {
+    color: rgb(72, 181, 39);
+    background-color: #edefea;
+}
+
+.dropdown {
+    display: inline-block;
+}
+.dropdown-main {
+    display: none;
+    position: absolute;
+    border: 1px solid rgb(0, 177, 255);
+    margin: 0;
+    width: 6em;
+    color: rgb(37, 49, 89);
+    background-color: #edefea;
+    z-index: 1;
+}
+.dropdown-main a {
+    color: rgb(37, 49, 89);
+}
+.dropdown:hover .dropdown-main {
+    display: block;
+}
+
+/*Fonts*/
+
+h1{
+  font-family: 'Damion', cursive;
+  font-size: 45pt;
+  line-height: 20pt;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p{
+  font-family: 'Neuton', serif;
+  line-height: 1
+  font-size: 24pt;
+}
